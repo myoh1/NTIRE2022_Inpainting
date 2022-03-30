@@ -17,7 +17,7 @@ Edit your data and checkpoint directory of `run_test.py` and run it. You can dow
 I assume the following structure of data.
 ```
 Image, Mask, Edge
-- test
+- <dataset name>
 |   +-- Completion
 |		+- 000000.png
 |		+- 000001.png
