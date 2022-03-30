@@ -1,4 +1,5 @@
 This is NTIRE2022 Inpainting Track1(Unsupervised) Repository(https://codalab.lisn.upsaclay.fr/competitions/1607).
+We trained each model for 4 datasets(Places, WikiArt, FFHQ, ImageNet)
 
 
 
